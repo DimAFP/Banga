@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		274E84572840F1EC00E14449 /* DimView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 274E84562840F1EC00E14449 /* DimView.swift */; };
 		43A86C302840F01000CC94FB /* BangaApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A86C2F2840F01000CC94FB /* BangaApp.swift */; };
 		43A86C322840F01000CC94FB /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 43A86C312840F01000CC94FB /* ContentView.swift */; };
 		43A86C342840F01100CC94FB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 43A86C332840F01100CC94FB /* Assets.xcassets */; };
@@ -14,6 +15,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		274E84562840F1EC00E14449 /* DimView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DimView.swift; sourceTree = "<group>"; };
 		43A86C2C2840F01000CC94FB /* Banga.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Banga.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		43A86C2F2840F01000CC94FB /* BangaApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BangaApp.swift; sourceTree = "<group>"; };
 		43A86C312840F01000CC94FB /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -53,6 +55,7 @@
 			children = (
 				43A86C2F2840F01000CC94FB /* BangaApp.swift */,
 				43A86C312840F01000CC94FB /* ContentView.swift */,
+				274E84562840F1EC00E14449 /* DimView.swift */,
 				43A86C332840F01100CC94FB /* Assets.xcassets */,
 				43A86C352840F01100CC94FB /* Preview Content */,
 			);
@@ -137,6 +140,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				274E84572840F1EC00E14449 /* DimView.swift in Sources */,
 				43A86C322840F01000CC94FB /* ContentView.swift in Sources */,
 				43A86C302840F01000CC94FB /* BangaApp.swift in Sources */,
 			);
